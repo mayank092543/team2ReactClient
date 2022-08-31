@@ -1,7 +1,7 @@
 node {
     
     stage ("Checkout React Client"){
-        git branch: 'main', url: 'https://github.com/foxwas/bahmsdfox-reactclient.git'
+        git branch: 'main', url: 'https://github.com/mayank092543/team2ReactClient.git'
     }
     
     stage ("Install dependencies - react client") {
